@@ -9,19 +9,19 @@ logic building, and real-world mini challenges**.
 
 ### ✅ ✔ 40 JavaScript Logic-Building Problems
 
-Each problem is: - Short ✔\
-- Beginner-friendly ✔\
-- Realistic ✔\
+Each problem is: - Short ✔
+- Beginner-friendly ✔
+- Realistic ✔
 - Designed for modifying & experimenting ✔
 
-Includes: - Variables & conditions\
-- Loops\
-- Arrays\
-- Strings\
-- Searching\
-- Sorting\
-- Mini real-world challenges\
-- Math logic\
+Includes: - Variables & conditions
+- Loops
+- Arrays
+- Strings
+- Searching
+- Sorting
+- Mini real-world challenges
+- Math logic
 - Object operations
 
 ## 🧩 Problem Categories
@@ -59,18 +59,18 @@ new Date().getFullYear(); // 2025
 
 ## 🏗️ How to Use
 
-1.  Copy any snippet\
-2.  Paste into VS Code / Browser Console\
-3.  Modify values → See how output changes\
-4.  Practice rewriting the logic in your own way\
+1.  Copy any snippet
+2.  Paste into VS Code / Browser Console
+3.  Modify values → See how output changes
+4.  Practice rewriting the logic in your own way
 5.  Do at least **5 variations** of each problem for mastery
 
 ## 🧠 Why This Repo Is Useful?
 
--   Builds real problem-solving skills\
--   Covers **100% of common JS interview basics**\
--   Helps you think like a developer\
--   No frameworks --- pure logic\
+-   Builds real problem-solving skills
+-   Covers **100% of common JS interview basics**
+-   Helps you think like a developer
+-   No frameworks --- pure logic
 -   Perfect for JS beginners, QA engineers, SDET, students
 
 ## 📁 Folder Structure (Suggested)
@@ -86,17 +86,17 @@ new Date().getFullYear(); // 2025
 
 ## 🚀 Future Plans
 
-✔ Add 100 more problems\
-✔ Add solutions in multiple ways\
-✔ Add challenges like map/filter/reduce\
+✔ Add 100 more problems
+✔ Add solutions in multiple way
+✔ Add challenges like map/filter/reduce
 ✔ Add mini-projects (Calculator, Todo, Game)
 
 ## 🤝 Contributions
 
-PRs are welcome!\
-You can contribute by: - Adding new problems\
-- Adding optimized solutions\
-- Adding ES6 versions\
+PRs are welcome!
+You can contribute by: - Adding new problems
+- Adding optimized solutions
+- Adding ES6 versions
 - Improving documentation
 
 ## 📜 License
